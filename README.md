@@ -55,15 +55,6 @@ At Astute Technologies, we operate with a clear mission — to engineer products
 
 ---
 
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakashhameed&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashhameed&layout=compact&theme=dark&hide_border=true" height="165" />
-</p>
-
----
-
 ## Get In Touch
 
 I am always open to discussing new projects, partnerships, or opportunities to collaborate.
