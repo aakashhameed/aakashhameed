@@ -1,12 +1,6 @@
 <h1 align="center">Muhammad Akash Hameed</h1>
 <h3 align="center">Founder & CEO — Astute Technologies</h3>
 
-<p align="center">
-  <a href="https://github.com/aakashhameed">
-    <img src="https://komarev.com/ghpvc/?username=aakashhameed&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
-
 ---
 
 ## About Me
