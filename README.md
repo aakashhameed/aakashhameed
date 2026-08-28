@@ -5,9 +5,9 @@
 
 ## About Me
 
-I am the **Founder & CEO of [Astute Technologies](https://github.com/Astute-Technologies)**, a software development company built on the foundation of turning innovative ideas into high-performing, scalable digital products. With over **five years of industry experience**, our team has delivered end-to-end mobile and web solutions across diverse sectors and markets.
+I am the **Founder & CEO of [Astute Technologies](https://github.com/Astute-Technologies)**, a software development company built on the foundation of turning innovative ideas into high-performing,[...]
 
-At Astute Technologies, we operate with a clear mission — to engineer products that are not only technically excellent but also built to scale. Every solution we deliver is crafted with precision, performance, and long-term maintainability in mind.
+At Astute Technologies, we operate with a clear mission — to engineer products that are not only technically excellent but also built to scale. Every solution we deliver is crafted with precisio[...]
 
 ---
 
@@ -54,14 +54,14 @@ At Astute Technologies, we operate with a clear mission — to engineer products
 I am always open to discussing new projects, partnerships, or opportunities to collaborate.
 
 <p align="left">
-  <a href="mailto:aakashhameed@icloud.com">
+  <a href="mailto:aakashhameed25@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=apple&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/aakashhameed" target="_blank">
+  <a href="www.linkedin.com/in/aakash-hameed-96411b142" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Astute-Technologies" target="_blank">
-    <img src="https://img.shields.io/badge/Astute%20Technologies-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://astutetechnologies.net/" target="_blank">
+    <img src="https://img.shields.io/badge/ASTUTE%20TECHNOLOGIES%20(PVT)%20LTD-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
