@@ -84,9 +84,13 @@ I'm the **Founder & CEO of [Astute Technologies](https://astutetechnologies.net/
 ### 📊 GitHub Activity
 
 <p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Faakashhameed%3Fy%3Dlast&query=%24.total.lastYear&label=Contributions%20in%20the%20last%20year&color=2563EB&labelColor=0B1220&style=for-the-badge&logo=github&logoColor=white" alt="Contributions in the last year" />
+</p>
+
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=aakashhameed&hide_border=true&background=0D1117&ring=2563EB&fire=3B82F6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3B82F6&sideLabels=9CA3AF&dates=6B7280&stroke=1F2937" />
-    <img src="https://streak-stats.demolab.com?user=aakashhameed&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="GitHub contribution streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=aakashhameed&hide_total_contributions=true&hide_border=true&background=0D1117&ring=2563EB&fire=3B82F6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3B82F6&sideLabels=9CA3AF&dates=6B7280&stroke=1F2937" />
+    <img src="https://streak-stats.demolab.com?user=aakashhameed&hide_total_contributions=true&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="GitHub contribution streak" />
   </picture>
 </p>
 
