@@ -75,7 +75,7 @@ I'm the **Founder & CEO of [Astute Technologies](https://astutetechnologies.net/
 | **Leklok** | Social platform with live video conferencing ([SFU](https://github.com/aakashhameed/leklok-mirotalksfu)), gamification, gifting & wallet, and user verification | Flutter · TypeScript · WebRTC |
 | **HDiDA** | Vehicle marketplace combined with a controlled professional social network | Flutter · TypeScript · Admin console |
 | **Hauptsache-Platz** | Dutch-auction marketplace with an ops console and marketing site | Flutter · Next.js |
-| **Nova** | Short-form vertical video social platform | Flutter |
+| **Chattick** | Privacy-focused messenger with voice & video calling, subscriptions and rewards | Flutter · Firebase · Next.js |
 | **Oner Education** | Admissions platform connecting students with universities and schools, plus an agent portal | Flutter · React · TypeScript |
 | **OneRtrip** | Travel platform — mobile app, website and admin | Flutter · JavaScript |
 
