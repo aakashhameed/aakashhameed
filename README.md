@@ -1,72 +1,97 @@
-<h1 align="center">Muhammad Akash Hameed</h1>
-<h3 align="center">Founder & CEO — Astute Technologies</h3>
-
----
-
-## About Me
-
-I am the **Founder & CEO of [Astute Technologies](https://github.com/Astute-Technologies)**, a software development company built on the foundation of turning innovative ideas into high-performing,[...]
-
-At Astute Technologies, we operate with a clear mission — to engineer products that are not only technically excellent but also built to scale. Every solution we deliver is crafted with precisio[...]
-
----
-
-## What We Do
-
-- **Cross-Platform Mobile Development** — iOS & Android applications built with Flutter, delivering native-grade performance and seamless user experiences
-- **Backend Engineering** — Robust, scalable server-side architectures designed to support high-growth applications
-- **Web Development** — Full-stack web solutions tailored to business needs, from MVPs to enterprise-grade platforms
-- **End-to-End Product Delivery** — Strategy, design, development, and deployment — handled entirely in-house
-
----
-
-## Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
----
-
-## Get In Touch
-
-I am always open to discussing new projects, partnerships, or opportunities to collaborate.
-
-<p align="left">
-  <a href="mailto:aakashhameed25@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/aakash-hameed-96411b142" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://astutetechnologies.net/" target="_blank">
-    <img src="https://img.shields.io/badge/ASTUTE%20TECHNOLOGIES%20(PVT)%20LTD-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:2563eb&height=220&section=header&text=Muhammad%20Akash%20Hameed&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Founder%20%26amp%3B%20CEO%20%C2%B7%20Astute%20Technologies&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Muhammad Akash Hameed — Founder & CEO, Astute Technologies" />
 
 <p align="center">
-  <i>"Building scalable products that make a difference."</i>
+  <a href="https://astutetechnologies.net/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=640&lines=Full-Stack+%26+Mobile+App+Developer;Flutter+%E2%80%A2+React+Native+%E2%80%A2+Node.js+%E2%80%A2+NestJS+%E2%80%A2+Next.js;Building+scalable+products+%26+SaaS;From+idea+to+App+Store+%E2%80%94+end+to+end" alt="Full-Stack & Mobile App Developer · Flutter · React Native · Node.js · NestJS · Next.js" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://astutetechnologies.net/"><img src="https://img.shields.io/badge/astutetechnologies.net-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/aakash-hameed-96411b142"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:aakashhameed25@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Open%20to-Projects%20%26%20Partnerships-22C55E?style=for-the-badge" alt="Open to projects and partnerships" />
+</p>
+
+---
+
+### 👋 About Me
+
+I'm the **Founder & CEO of [Astute Technologies](https://astutetechnologies.net/)**, a software company that turns ideas into fast, reliable, production-grade products. I lead engineering hands-on — architecting systems, writing code, and shipping alongside my team.
+
+- 🚀 Shipping **mobile apps, SaaS platforms, and marketplaces** for clients worldwide
+- 🧩 Every product delivered end to end: **mobile app → backend → admin console → marketing site**
+- ⚡ Focused on **scalable architecture**, clean code, and real-world performance
+- 🤝 Open to **client projects, partnerships, and collaborations**
+
+---
+
+### 🛠️ What I Do
+
+| Area | What I deliver |
+|---|---|
+| 📱 **Mobile Development** | Cross-platform iOS & Android apps with Flutter and React Native, plus native Kotlin / Swift when it matters |
+| ⚙️ **Backend Engineering** | Scalable APIs and services with Node.js, NestJS, Express, Laravel and .NET |
+| 🌐 **Web Platforms** | Next.js and React web apps, admin dashboards and marketing sites — MVP to enterprise |
+| 🎯 **Product Delivery** | Strategy, UI/UX, development, deployment and maintenance — all in-house |
+
+---
+
+### 🧰 Tech Stack
+
+<table>
+  <tr>
+    <td><b>Mobile</b></td>
+    <td><img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin,swift,androidstudio,apple" alt="Flutter, Dart, React Native, Kotlin, Swift, Android, iOS" /></td>
+  </tr>
+  <tr>
+    <td><b>Web</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs,react,ts,js" alt="Next.js, React, TypeScript, JavaScript" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,laravel,dotnet" alt="Node.js, NestJS, Express, PHP, Laravel, .NET" /></td>
+  </tr>
+  <tr>
+    <td><b>Data & Cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,aws,docker,git" alt="MongoDB, PostgreSQL, Firebase, AWS, Docker, Git" /></td>
+  </tr>
+  <tr>
+    <td><b>Design & Games</b></td>
+    <td><img src="https://skillicons.dev/icons?i=figma,unity,unreal" alt="Figma, Unity, Unreal Engine" /></td>
+  </tr>
+</table>
+
+<sub>Also: Stripe payments · WebRTC real-time video</sub>
+
+---
+
+### 🏗️ Products We've Built
+
+> Client and in-house products — source is private, happy to walk through them on a call.
+
+| Product | What it is | Built with |
+|---|---|---|
+| **Leklok** | Social platform with live video conferencing ([SFU](https://github.com/aakashhameed/leklok-mirotalksfu)), gamification, gifting & wallet, and user verification | Flutter · TypeScript · WebRTC |
+| **HDiDA** | Vehicle marketplace combined with a controlled professional social network | Flutter · TypeScript · Admin console |
+| **Hauptsache-Platz** | Dutch-auction marketplace with an ops console and marketing site | Flutter · Next.js |
+| **Nova** | Short-form vertical video social platform | Flutter |
+| **Oner Education** | Admissions platform connecting students with universities and schools, plus an agent portal | Flutter · React · TypeScript |
+| **OneRtrip** | Travel platform — mobile app, website and admin | Flutter · JavaScript |
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=aakashhameed&hide_border=true&background=0D1117&ring=2563EB&fire=3B82F6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3B82F6&sideLabels=9CA3AF&dates=6B7280&stroke=1F2937" />
+    <img src="https://streak-stats.demolab.com?user=aakashhameed&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="GitHub contribution streak" />
+  </picture>
+</p>
+
+---
+
+<p align="center"><i>"Building scalable products that make a difference."</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0b1220&height=120&section=footer" width="100%" alt="" />
