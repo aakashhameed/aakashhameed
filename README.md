@@ -17,7 +17,7 @@
 
 ### 👋 About Me
 
-I'm the **Founder & CEO of [Astute Technologies](https://astutetechnologies.net/)**, a software company that turns ideas into fast, reliable, production-grade products. I lead engineering hands-on — architecting systems, writing code, and shipping alongside my team.
+I'm the **Founder & CEO of [Astute Technologies (Pvt) Ltd](https://astutetechnologies.net/)**, a software company that turns ideas into fast, reliable, production-grade products. I lead engineering hands-on — architecting systems, writing code, and shipping alongside my team.
 
 - 🚀 Shipping **mobile apps, SaaS platforms, and marketplaces** for clients worldwide
 - 🧩 Every product delivered end to end: **mobile app → backend → admin console → marketing site**
